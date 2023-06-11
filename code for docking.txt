@@ -1,0 +1,3 @@
+cd C:\Users\NGUYEN DUC HAI\Desktop\docking\c72
+"C:\Program Files (x86)\The Scripps Research Institute\Vina\vina.exe" --receptor 7e3h.pdbqt --ligand c72.pdbqt --config config.txt --log log.txt --out output.pdbqt
+

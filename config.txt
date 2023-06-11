@@ -1,0 +1,14 @@
+receptor = 3lii_2.pdbqt
+ligand = donep.pdbqt
+
+center_x = 68.265
+center_y = 77.298 
+center_z = 11.089
+
+size_x = 40
+size_y = 40
+size_z = 40
+
+energy_range = 4
+
+exhaustiveness = 8
